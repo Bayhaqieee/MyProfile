@@ -149,8 +149,7 @@ body .journey {
   grid-column: 2/ span 2;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10px 10px; 
-  margin: 0px 50px;
+  gap: 10px 5px; 
 }
 
 #unique div{
